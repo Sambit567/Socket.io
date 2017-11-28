@@ -1,0 +1,24 @@
+{
+  "name": "socket.io",
+  "version": "1.0.0",
+  "description": "A Package to learn Soket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sambit Kumar Padhy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git clone https://gitlab.com/sambit567/Socket.io.git"
+  },
+  "keywords": [
+    "chat",
+    "application"
+  ]
+}
